@@ -1,7 +1,5 @@
 # vuec-proof
 
-> A Vue.js project
-
 Install with yarn.
 
 To test:
